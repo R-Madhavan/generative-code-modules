@@ -1,7 +1,5 @@
 from tkinter import *
 from tkinter import ttk
-
-
 # Conversion factors dictionary
 conversion_factors = {
     ("Miles", "Kilometers"): 1.60934,
