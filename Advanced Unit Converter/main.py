@@ -87,5 +87,5 @@ convert_button.grid(column=1, row=3, pady=(5, 0))
 reset_button = Button(window, text="Reset", command=reset, font=("Arial", 10), bg="#d9534f", fg="white")
 reset_button.grid(column=2, row=3, pady=(5, 0))
 
-# Run the application
+# Run the application(appliation will be open till close)
 window.mainloop()
